@@ -1,0 +1,332 @@
+*{
+    font-family: 'Raleway', sans-serif;
+    margin:0%;
+}
+
+  
+.they{
+    background-image: url(./pexels-sebastian-srensen-1276518.jpg);
+    width:100%;
+    background-position: center;
+    height:250px;
+}
+.smart{
+ 
+    text-align: center;
+}
+.smart >h1{
+   color:white;
+   padding:5vh;
+   font-weight: 100;
+   font-size: 50px;
+}
+.non {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 22%;
+    margin: auto;
+}
+.non >h4 >a{
+    color: white;
+    margin-bottom: 3vh;
+    text-decoration: none;
+   
+}
+.smart >b{
+    color: white;
+   font-weight: 800;
+   font-size: 50px;
+}
+.smart >h4{
+    color: white;
+    margin-bottom: 3vh;
+}
+.eventform{
+    border: 1px solid black;
+    background-size: 100% 100%;
+    margin-top:150px ;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 10px;
+    padding: 50px;
+    background-color:whitesmoke;
+    margin: auto;
+    margin-top: 50px;
+}
+.search{
+    height: 40px;
+    
+}
+.find{
+    border: 1px solid green;
+    height:fit-content;
+    width: fit-content;
+    background-color: green;
+    margin-left: 630px;
+    padding: 10px;
+    margin-top: 40px;
+    margin-right: 10px;
+}
+
+.list{
+   display: flex;
+   flex-direction: column;
+}
+.text1{
+display: inline-flex;
+}
+.text2{
+display: inline-flex;
+}
+.text3{
+display:inline-flex;
+}
+.pic1{
+    margin: 50px;
+}
+.data1{
+    margin: 50px;
+    
+}
+.data1,.data2,.data3 >h2,h4,p,button{
+    padding:1.5vh;
+}
+.pic2{
+    margin: 50px;
+}
+.data2{
+    margin: 50px;
+}
+.pic3{
+    margin: 50px;
+}
+.data3{
+    margin: 50px;
+}
+.amz{
+    padding: 15px 30px;
+    font-size: 13px;
+    font-weight: 700;
+    color: black ;
+    border: 2px solid grey ;
+    border-radius: 3px;
+   background-color: white;
+   margin-left: 2vh;
+}
+.amz:hover{
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+
+.cats >h1{
+    font-size: 40px;
+    font-weight: 600;
+}
+.cats >h3{
+    color: grey;
+    font-weight: 300;
+}
+.cats >h1,h3{
+    padding:1vh;
+}
+.cats{
+    padding: 1vh;
+    height:340px;
+}
+.backup{
+    height:450px;
+}  
+
+.cats >h3:hover{
+    color:#6ac610;
+}
+.vzl >h1{
+    padding: 1vh;
+    height:50px;
+}
+
+.backup >.bas,h1{
+    padding:1vh;
+}
+.bas{
+    display: flex;
+    flex-direction: row;
+   
+}
+.harm{
+    margin-top: 3vh;
+    margin-left: 3vh;
+}
+.bas >img:hover{
+    opacity: 0.8;
+}
+.bas >img{
+    width:100px;
+height:100px;
+}
+.bpa{
+    padding: 1vh;
+}
+
+.bpa >button{
+    padding: 15px 15px;
+    font-size: 13px;
+    font-weight: 700;
+    color: black ;
+    border: 2px solid grey ;
+    border-radius: 3px;
+   background-color: white;
+}
+.bpa >button:hover{
+    background-color: #6ac610;
+    color: white;
+    border-color: #6ac610;
+}
+
+.bqp{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:30%;
+    margin:auto;
+    margin-left: 23vh;
+    }
+    .pks >button{
+       
+            margin-left: 1vh;
+             padding: 12px 20px;
+             font-size: 13px;
+             font-weight: 700;
+             color: black ;
+             border: 2px solid grey ;
+             border-radius: 3px;
+            background-color: white;
+         }
+         .pks >button:hover{
+             background-color: rgba(0, 0, 0, 0.925);
+             color: white;
+             border-color: white;
+         }
+         .bqp{
+             height: 120px;
+         }
+
+         .suvs >h1{
+            color: white;
+            font-size: 48px;
+            font-weight: 900;
+        
+        }
+        .suvs >h1{
+            position: relative;
+            top:-300px;
+            text-align: center;
+        }
+        .suvs >h1 >b{
+            color:#6ac610;
+            font-size: 48px;
+            font-weight: 900;
+        }
+        .sixes{
+            background-image: url(./pexels-kaboompics-com-6427.jpg);
+            width: 100%;
+            height:400px;
+            background-position: bottom;
+            background-repeat: no-repeat;
+            background-size:cover ;
+            position: relative;
+        }
+        .egq{
+            position: relative;
+            top:-280px;
+            text-align: center;
+        }
+        .egq >p{
+            color: white;
+            font-size: 25px;
+            font-weight: 100;
+        }
+        .nons >.acsp{
+            padding: 11px 25px;
+            font-size: 13px;
+            font-weight: 700;
+            background: #6ac610;
+            color: #ffffff ;
+            border: 2px solid #6ac610 ;
+            border-radius: 3px;
+            position: relative;
+            top:-250px;
+            left:600px;
+        }
+        .acsp:hover{
+            background-color: white;
+            color: #6ac610;
+            border-color: #6ac610;
+        }
+        .tspp{
+            background: none;
+            padding: 11px 25px;
+            font-size: 13px;
+            font-weight: 700;
+            color: #ffffff ;
+            border: 2px solid white ;
+            border-radius: 3px;
+            position: relative;
+            top:-250px;
+            left:600px;
+        }
+        .tspp:hover{
+            background-color: white;
+            color: black;
+            border-color: white;
+        }
+        .mipq{
+            background-image: url(./green.PNG);
+            width:100%;
+            height:200px;
+            margin: 0%;
+        }
+        .saaps{
+          height:380px;
+        }
+        .opqs >button{
+            background: none;
+            padding: 11px 25px;
+            font-size: 13px;
+            font-weight: 700;
+            color: #ffffff ;
+            border: 2px solid white ;
+            border-radius: 3px;
+        }
+        .opqs >button:hover{
+            background-color: white;
+            color: #6ac610;
+            border-color: white;
+        }
+        .rczd{
+            color: white;
+        
+        }
+        .zzpd{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            width:80%;
+            margin: auto;
+            position: relative;
+            top:-115px;
+        }
+        .wgqw{
+            height: 100px;
+        }
+    .categories{
+        display: flex;
+        flex-direction: row;
+      
+    }
+.smaq{
+    height: 1400px;
+}

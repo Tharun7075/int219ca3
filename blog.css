@@ -1,0 +1,291 @@
+*{
+    font-family: 'Raleway', sans-serif;
+    margin:0%;
+}
+.rage{
+    height: 300px;
+  
+}
+.the{
+    background-image: url(./pexels-sebastian-srensen-1276518.jpg);
+    width:100%;
+    background-position: center;
+    height:200px;
+}
+.sma{
+ 
+    text-align: center;
+}
+.sma >h1{
+   color:white;
+   padding:5vh;
+   font-weight: 100;
+   font-size: 50px;
+}
+.non {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 22%;
+    margin: auto;
+}
+.non >h4 >a{
+    color: white;
+    margin-bottom: 3vh;
+    text-decoration: none;
+   
+}
+.sma >b{
+    color: white;
+   font-weight: 800;
+   font-size: 50px;
+}
+.sma >h4{
+    color: white;
+    margin-bottom: 3vh;
+}
+.zeb >img{
+width:80%;
+height:500px;
+margin-left: 2vh;
+
+}
+.zeb >h1{
+    font-weight: 800;
+    padding: 1vh;
+    margin-left: 1vh;
+}
+.zeb >p{
+    color: grey;
+    font-weight: 300;
+    padding: 2vh;
+}
+.zeb >.amz{
+    padding: 15px 30px;
+    font-size: 13px;
+    font-weight: 700;
+    color: black ;
+    border: 2px solid grey ;
+    border-radius: 3px;
+   background-color: white;
+   margin-left: 2vh;
+}
+.zeb >.amz:hover{
+    background-color: #6ac610;
+    color: white;
+    border-color: #6ac610;
+}
+
+.zeb{
+    height: 700px;
+}
+
+.cat >h1{
+    font-size: 40px;
+    font-weight: 600;
+}
+.cat >h3{
+    color: grey;
+    font-weight: 300;
+}
+.cat >h1,h3{
+    padding:1vh;
+}
+.cat{
+    padding: 1vh;
+    height:340px;
+}
+.back{
+    height:450px;
+}  
+
+.cat >h3:hover{
+    color:#6ac610;
+}
+.vz >h1{
+    padding: 1vh;
+    height:50px;
+}
+
+.back >.ba,h1{
+    padding:1vh;
+}
+.ba{
+    display: flex;
+    flex-direction: row;
+   
+}
+.harm{
+    margin-top: 3vh;
+    margin-left: 3vh;
+}
+.ba >img:hover{
+    opacity: 0.8;
+}
+.ba >img{
+    width:100px;
+height:100px;
+}
+.bp{
+    padding: 1vh;
+}
+
+.bp >button{
+    padding: 15px 15px;
+    font-size: 13px;
+    font-weight: 700;
+    color: black ;
+    border: 2px solid grey ;
+    border-radius: 3px;
+   background-color: white;
+}
+.bp >button:hover{
+    background-color: #6ac610;
+    color: white;
+    border-color: #6ac610;
+}
+.bigco{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:90%;
+    margin:auto;
+}
+.bq{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:30%;
+    margin:auto;
+    margin-left: 23vh;
+    }
+    .pk >button{
+       
+            margin-left: 1vh;
+             padding: 12px 20px;
+             font-size: 13px;
+             font-weight: 700;
+             color: black ;
+             border: 2px solid grey ;
+             border-radius: 3px;
+            background-color: white;
+         }
+         .pk >button:hover{
+             background-color: rgba(0, 0, 0, 0.925);
+             color: white;
+             border-color: white;
+         }
+         .bq{
+             height: 120px;
+         }
+
+         .suv >h1{
+            color: white;
+            font-size: 48px;
+            font-weight: 900;
+        
+        }
+        .suv >h1{
+            position: relative;
+            top:-300px;
+            text-align: center;
+        }
+        .suv >h1 >b{
+            color:#6ac610;
+            font-size: 48px;
+            font-weight: 900;
+        }
+        .sixs{
+            background-image: url(./pexels-kaboompics-com-6427.jpg);
+            width: 100%;
+            height:400px;
+            background-position: bottom;
+            background-repeat: no-repeat;
+            background-size:cover ;
+            position: relative;
+        }
+        .eg{
+            position: relative;
+            top:-280px;
+            text-align: center;
+        }
+        .eg >p{
+            color: white;
+            font-size: 25px;
+            font-weight: 100;
+        }
+        .non >.acs{
+            padding: 11px 25px;
+            font-size: 13px;
+            font-weight: 700;
+            background: #6ac610;
+            color: #ffffff ;
+            border: 2px solid #6ac610 ;
+            border-radius: 3px;
+            position: relative;
+            top:-250px;
+            left:600px;
+        }
+        .acs:hover{
+            background-color: white;
+            color: #6ac610;
+            border-color: #6ac610;
+        }
+        .tsp{
+            background: none;
+            padding: 11px 25px;
+            font-size: 13px;
+            font-weight: 700;
+            color: #ffffff ;
+            border: 2px solid white ;
+            border-radius: 3px;
+            position: relative;
+            top:-250px;
+            left:600px;
+        }
+        .tsp:hover{
+            background-color: white;
+            color: #6ac610;
+            border-color: white;
+        }
+        .mip{
+            background-image: url(./green.PNG);
+            width:100%;
+            height:200px;
+            margin: 0%;
+        }
+        .saap{
+          height:380px;
+        }
+        .opq >button{
+            background: none;
+            padding: 11px 25px;
+            font-size: 13px;
+            font-weight: 700;
+            color: #ffffff ;
+            border: 2px solid white ;
+            border-radius: 3px;
+        }
+        .opq >button:hover{
+            background-color: white;
+            color: #6ac610;
+            border-color: white;
+        }
+        .rcz{
+            color: white;
+        
+        }
+        .zzp{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            width:80%;
+            margin: auto;
+            position: relative;
+            top:-115px;
+        }
+        .wgq{
+            height: 100px;
+        }
+    
