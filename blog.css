@@ -7,7 +7,7 @@
   
 }
 .the{
-    background-image: url(./pexels-sebastian-srensen-1276518.jpg);
+    background-image: url(pexels-sebastian-srensen-1276518.jpg);
     width:100%;
     background-position: center;
     height:200px;
@@ -197,7 +197,7 @@ height:100px;
             font-weight: 900;
         }
         .sixs{
-            background-image: url(./pexels-kaboompics-com-6427.jpg);
+            background-image: url(pexels-kaboompics-com-6427.jpg);
             width: 100%;
             height:400px;
             background-position: bottom;
